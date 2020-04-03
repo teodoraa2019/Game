@@ -17,7 +17,7 @@ public class Carobnjak : MonoBehaviour {
 	}
 	
     void StartGame() {
-        max = 1001;
+        max = 1000;
         min = 1;
         NextPokusaj();
     }
@@ -37,7 +37,8 @@ public class Carobnjak : MonoBehaviour {
         Pokusaj = Random.Range(min, max + 1);
         text.text = Pokusaj.ToString();
         MaxBrojPokusaja = MaxBrojPokusaja - 1;
-        if (MaxBrojPokusaja <= 0) {
+        if (MaxBrojPokusaja <= 0)
+        {
             Application.LoadLevel("Win");
         }
     }
