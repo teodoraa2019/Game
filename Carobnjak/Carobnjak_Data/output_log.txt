@@ -17,7 +17,7 @@ Platform assembly: C:\Users\teodo\Desktop\git - projekti\Game\Carobnjak\Carobnja
 Loading C:\Users\teodo\Desktop\git - projekti\Game\Carobnjak\Carobnjak_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\teodo\Desktop\git - projekti\Game\Carobnjak\Carobnjak_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\teodo\Desktop\git - projekti\Game\Carobnjak\Carobnjak_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.043 seconds
+- Completed reload, in  0.045 seconds
 Platform assembly: C:\Users\teodo\Desktop\git - projekti\Game\Carobnjak\Carobnjak_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\teodo\Desktop\git - projekti\Game\Carobnjak\Carobnjak_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
@@ -25,37 +25,71 @@ desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.298011 ms
+UnloadTime: 2.356023 ms
 Učitavanje razine:Game
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 12.548305 ms
+UnloadTime: 12.115088 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 264.
-Total: 0.460350 ms (FindLiveObjects: 0.065497 ms CreateObjectMapping: 0.019649 ms MarkObjects: 0.362105 ms  DeleteObjects: 0.012163 ms)
+Total: 0.449122 ms (FindLiveObjects: 0.064561 ms CreateObjectMapping: 0.019649 ms MarkObjects: 0.342456 ms  DeleteObjects: 0.020584 ms)
+
+Učitavanje razine:Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.122807 ms
+UnloadTime: 1.217309 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 251.
-Total: 0.358362 ms (FindLiveObjects: 0.058011 ms CreateObjectMapping: 0.020584 ms MarkObjects: 0.267602 ms  DeleteObjects: 0.010292 ms)
+Total: 0.367719 ms (FindLiveObjects: 0.056140 ms CreateObjectMapping: 0.019649 ms MarkObjects: 0.277894 ms  DeleteObjects: 0.013099 ms)
 
 Učitavanje razine:Start
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.778479 ms
+UnloadTime: 0.735438 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 264.
-Total: 0.474385 ms (FindLiveObjects: 0.058011 ms CreateObjectMapping: 0.021520 ms MarkObjects: 0.378011 ms  DeleteObjects: 0.014970 ms)
+Total: 0.414502 ms (FindLiveObjects: 0.058011 ms CreateObjectMapping: 0.020584 ms MarkObjects: 0.322807 ms  DeleteObjects: 0.011228 ms)
+
+Učitavanje razine:Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.657777 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 0.377076 ms (FindLiveObjects: 0.052397 ms CreateObjectMapping: 0.019649 ms MarkObjects: 0.293801 ms  DeleteObjects: 0.010292 ms)
+
+Učitavanje razine:Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.801871 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.378947 ms (FindLiveObjects: 0.057076 ms CreateObjectMapping: 0.020584 ms MarkObjects: 0.288187 ms  DeleteObjects: 0.011228 ms)
+
+Učitavanje razine:Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.747602 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 0.413567 ms (FindLiveObjects: 0.058947 ms CreateObjectMapping: 0.020584 ms MarkObjects: 0.320000 ms  DeleteObjects: 0.013099 ms)
 
 Gašenje!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1f40 -> priority: 1 
-  Thread -> id: 2fac -> priority: 1 
+  Thread -> id: 281c -> priority: 1 
+  Thread -> id: 2bf0 -> priority: 1 
